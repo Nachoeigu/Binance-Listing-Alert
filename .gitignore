@@ -1,0 +1,3 @@
+#This file ignores the sensible data
+.env
+credentials.json
