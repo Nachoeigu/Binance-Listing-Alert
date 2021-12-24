@@ -1,0 +1,6 @@
+tweepy==4.4.0
+requests==2.25.1
+pandas==1.2.4
+gspread>=5.0.0
+gspread_dataframe>=3.2.2
+python-dotenv>= 0.19.2
